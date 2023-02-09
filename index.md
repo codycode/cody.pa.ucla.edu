@@ -4,9 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-* Web Development & Hosting with GitHub
+# Web Development & Hosting with GitHub
 
-** Comparison of available approaches
+* Faculty know and have requested this approach
+* Conceptually simple, very secure, technically mature
+* Fully hosted, including security
+
+## Comparison of available approaches
 
 Static-Site Generator | GitHub integrated Jekyll | GitHub Actions Jekyll | GitHub Actions CI/CD
 --------------------- | ------------------------ | --------------------- | ---------------------
