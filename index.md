@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-## Web Development & Hosting with GitHub
+
 
 * Faculty know and have requested this approach
 * Conceptually simple, very secure, technically mature
